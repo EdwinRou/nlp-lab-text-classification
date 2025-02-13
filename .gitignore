@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/LeMonde2003_9classes.csv.gz
